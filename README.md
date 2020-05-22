@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vue 电商后台管理系统后台 API 接口服务器
 
 ## 技术栈
@@ -33,3 +34,6 @@
 npm install
 npm start
 ```
+=======
+# shopManage-server
+>>>>>>> 545049837e2d3040f1d3e03e09cefaca5fd824a6
